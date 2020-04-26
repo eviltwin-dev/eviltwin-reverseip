@@ -1,7 +1,7 @@
-# Evil Twin Shell
+# Evil Twin Reverse IP
 
-- **Coder Eval ID A.K.A Fadly31337**
-- **Encrypter Sec666 A.K.A ZSec**
+- **Coder Sec666 A.K.A ZSec**
+- **Support Eval ID A.K.A Fadly31337**
 
 ## How To Run :
  
