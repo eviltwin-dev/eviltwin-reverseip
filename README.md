@@ -43,4 +43,4 @@ About Update :
 - Fix a bug
 - Can Support Just Domain
 
-{ https://github.com/eviltwin-dev/eviltwin-revip/ }
+{ https://github.com/eviltwin-dev/eviltwin-reverseip/ }
