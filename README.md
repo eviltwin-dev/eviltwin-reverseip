@@ -14,6 +14,7 @@
 $ apt-get install git <br>
 $ apt-get install python <br>
 $ pip install requests <br>
+$ pip install termcolor <br>
 $ pip install colored <br>
 $ wget https://raw.githubusercontent.com/eviltwin-dev/eviltwin-reverseip/master/revip.py <br>
 $ python revip.py <br>
