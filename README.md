@@ -25,7 +25,7 @@ $ python revip.py <br>
 
 - This tools no take or destroy your information on your device , we promise
 - We not responsible for the actions you have done with this tools.
-- If you need bacot about this shell you can nyocot in efeeltwin@gmail.com
+- If you need bacot about this tools you can nyocot in efeeltwin@gmail.com
 - And Enjoy This Tools
 
 ### Thanks For
