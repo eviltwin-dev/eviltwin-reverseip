@@ -24,7 +24,6 @@ def rev():
 			sys.exit()
 		if inp.startswith("https://"):
 			sys.exit(colored("Cant Use 'https://' ", "red"))
-
 		get=requests.get(f"http://api.hackertarget.com/reverseiplookup/?q={inp}")
 		file=open(f"./{inp}.txt", "w")
 		if get.text== "error check your search parameter":
