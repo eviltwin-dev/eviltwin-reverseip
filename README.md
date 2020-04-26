@@ -6,7 +6,7 @@
 ## How To Run :
  
  <p align="center">
- <img width="50%" src="images/"/>
+ <img width="50%" src="images/20200426_132127.jpg"/>
  </p><br>
  
  - run your cmd / terminal
