@@ -34,8 +34,13 @@ $ python revip.py <br>
 - Anonymous BGHH
 - JombangXploiter
 
-### Version
+### Update Version
 
-V1.0 (beta)
+V1.1
+
+About Update :
+
+- Fix a bug
+- Can Support Just Domain
 
 { https://github.com/eviltwin-dev/eviltwin-revip/ }
