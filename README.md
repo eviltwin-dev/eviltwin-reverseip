@@ -11,9 +11,9 @@
  
  - run your cmd / terminal
  
-$ apt-get install git
-$ apt-get install python
-$ pip install requests
+$ apt-get install git <br>
+$ apt-get install python <br>
+$ pip install requests <br>
 $ pip install colored
 $ wget https://raw.githubusercontent.com/eviltwin-dev/eviltwin-reverseip/master/revip.py
 $ python revip.py
