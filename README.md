@@ -14,9 +14,9 @@
 $ apt-get install git <br>
 $ apt-get install python <br>
 $ pip install requests <br>
-$ pip install colored
-$ wget https://raw.githubusercontent.com/eviltwin-dev/eviltwin-reverseip/master/revip.py
-$ python revip.py
+$ pip install colored <br>
+$ wget https://raw.githubusercontent.com/eviltwin-dev/eviltwin-reverseip/master/revip.py <br>
+$ python revip.py <br>
 
 - paste your target ip and enter
 - you can check the result in {ip}.txt
